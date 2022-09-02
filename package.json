@@ -1,0 +1,16 @@
+{
+  "name": "codigo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Júlio Maia",
+  "license": "ISC",
+  "dependencies": {
+    "br-timezone": "^1.0.2",
+    "dotenv": "^16.0.2",
+    "googleapis": "^107.0.0"
+  }
+}
